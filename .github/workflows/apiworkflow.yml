@@ -1,4 +1,4 @@
-name: web_ui_automation_test
+name: Api automation_test
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  webUIAutomation:
+  apiAutomation:
     
     runs-on: ubuntu-latest
 
