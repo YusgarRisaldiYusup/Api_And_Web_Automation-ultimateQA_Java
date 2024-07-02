@@ -1,6 +1,6 @@
 # Web_Automation
 
-# Proyek Pengujian UI Web menggunakan Cucumber, Java, Gradle, Selenium
+# Proyek Pengujian UI Web menggunakan Cucumber, Java, Gradle, Selenium dengan konsep Page Objek Model
 -web automation ini berfokus pada pengujian feature login dari web https://courses.ultimateqa.com/users/sign_in
 
 Proyek ini mengimplementasikan pengujian otomatis untuk aplikasi web menggunakan Cucumber sebagai framework pengujian berbasis behavior-driven development (BDD), Java untuk bahasa pemrograman, Gradle untuk manajemen dependensi dan build, serta Selenium untuk otomatisasi browser.
@@ -25,11 +25,11 @@ Proyek ini mengimplementasikan pengujian otomatis untuk aplikasi web menggunakan
 - `src/test/java/Step`: Berisi kelas Step Definitions untuk implementasi langkah-langkah pengujian.
 
 ## Hasil running 
-- ![Hasil_running1](https://github.com/YusgarYRY/webuiautomation/blob/main/idea64_xC7Bf1ACBx.png)
-- ![Hasil_running1](https://github.com/YusgarYRY/webuiautomation/blob/main/idea64_Ljkaguoa9X.png)
+- ![Hasil_running1](https://github.com/YusgarRisaldiYusup/Api_Web_Automation/blob/main/idea64_Ljkaguoa9X.png)
+- ![Hasil_running1](https://github.com/YusgarRisaldiYusup/Api_Web_Automation/blob/main/idea64_xC7Bf1ACBx.png)
 
 # Reporting
-- ![Reporting]( https://github.com/YusgarYRY/webuiautomation/blob/main/msedge_0QldKZenGg.png)
+- ![Reporting](https://github.com/YusgarRisaldiYusup/Api_Web_Automation/blob/main/msedge_0QldKZenGg.png)
 
 
 ---
