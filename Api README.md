@@ -24,12 +24,7 @@ Proyek ini mengimplementasikan pengujian otomatis untuk Api menggunakan restassu
 - `src/main/java/Page`: Berisi kelas Model Objek Halaman.
 - `src/test/java/Step`: Berisi kelas Step Definitions untuk implementasi langkah-langkah pengujian.
 
-## Hasil running 
-- ![Hasil_running1](https://github.com/YusgarRisaldiYusup/Api_Web_Automation/blob/main/idea64_Ljkaguoa9X.png)
-- ![Hasil_running1](https://github.com/YusgarRisaldiYusup/Api_Web_Automation/blob/main/idea64_xC7Bf1ACBx.png)
 
-# Reporting
-- ![Reporting](https://github.com/YusgarRisaldiYusup/Api_Web_Automation/blob/main/msedge_0QldKZenGg.png)
 
 
 ---
